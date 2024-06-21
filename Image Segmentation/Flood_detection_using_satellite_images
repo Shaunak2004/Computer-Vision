@@ -1,2 +1,0 @@
-This file corresponds to the various Image segmentation done using U-Net model to get segmented images of input satellite images.
-You can also put a threshold to the output value to get the segmented output in  black(land) and white(water bodies).
